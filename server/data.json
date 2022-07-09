@@ -1,0 +1,76 @@
+{
+  "smartphones": [
+    {
+      "id": "1",
+      "name": "iPhone 7 Plus",
+      "price": "749.00",
+      "manufacturer": "Apple",
+      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "memory": "1GB",
+      "storage": "128GB"
+    },
+    {
+      "id": "2",
+      "name": "iPhone X",
+      "price": "999.00",
+      "manufacturer": "Apple",
+      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "memory": "2GB",
+      "storage": "64GB"
+    },
+    {
+      "id": "3",
+      "name": "iPhone XS",
+      "price": "1299.00",
+      "manufacturer": "Apple",
+      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "memory": "3GB",
+      "storage": "256GB"
+    },
+    {
+      "id": "4",
+      "name": "iPhone XR",
+      "price": "1499.00",
+      "manufacturer": "Apple",
+      "image": "https://images.unsplash.com/photo-1592950630581-03cb41342cc5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80",
+      "memory": "4GB",
+      "storage": "256GB"
+    },
+    {
+      "id": "5",
+      "name": "Galaxy S10",
+      "price": "899.00",
+      "manufacturer": "Samsung",
+      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
+      "memory": "3GB",
+      "storage": "128GB"
+    },
+    {
+      "id": "6",
+      "name": "Galaxy S10 Plus",
+      "price": "999.00",
+      "manufacturer": "Samsung",
+      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
+      "memory": "4GB",
+      "storage": "64GB"
+    },
+    {
+      "id": "7",
+      "name": "Galaxy S10e",
+      "price": "999.00",
+      "manufacturer": "Samsung",
+      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
+      "memory": "4GB",
+      "storage": "256GB"
+    },
+    {
+      "id": "8",
+      "name": "Galaxy S10+",
+      "price": "999.00",
+      "manufacturer": "Samsung",
+      "image": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1538&q=80",
+      "memory": "4GB",
+      "storage": "64GB"
+    }
+  ]
+}
